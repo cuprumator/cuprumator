@@ -36,22 +36,6 @@
 
 ---
 
-## 🔧 Under Construction
-
-A personal project is currently in development — a multi-user **subscription tracker** with a .NET backend and a JavaScript/TypeScript frontend.  
-It will help users manage recurring expenses, visualize renewals, and avoid unexpected charges.
-
-**Tech stack:**
-- ASP.NET Core Web API (.NET 8)
-- PostgreSQL with EF Core
-- REST API-first design
-- Planned frontend: React or Next.js with Tailwind
-- Full authentication, multi-user support, and mobile-friendly layout
-
-🛠 Coming soon...
-
----
-
 ## 💼 Additional Experience
 
 ### 🛡 Apriorit (2015–2019)
