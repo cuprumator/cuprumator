@@ -3,9 +3,9 @@
 👋 Hi, I'm Oleksii — a C#/.NET developer specializing in Windows desktop applications with over 13 years of experience.  
 🧩 Specialized in building robust Windows desktop apps with modern UI (WinUI/WPF), VPN integration, networking, and secure deployment pipelines.
 
----
+## 🪟 Main Project Contributions
 
-## 🎯 ClearVPN for Windows
+### 🫧 ClearVPN for Windows
 
 **Role:** Lead Windows Developer @ MacPaw (2019–2024 full-time, now part-time freelance)  
 **Stack:** C#, .NET 6+, WinUI 3, GRPC, WireGuard, OpenVPN, IKEv2, Hysteria2, sing-box, WFP, WiX, CI/CD (GitHub Actions)  
@@ -32,20 +32,28 @@
 
 🔗 [Download the app](https://clearvpn.com)
 
----
 
-## 🛰 grpc-single-app-instance-dotnet
+## 📁 Public Repositories Hightligts
+
+### 🛰 grpc-single-app-instance-dotnet
 
 **Purpose:** Enable single-instance behavior in modern .NET desktop apps using gRPC instead of WCF  
 **Highlights:**
 - Forwards command-line arguments from secondary to primary instance
 - Designed for apps where WCF or named pipes are deprecated or unsupported
 - Minimal, portable, dependency-free and compatible with .NET 6+ and future versions
-
-Used for migration Windows ClearVPN desktop client from .NET Framework 4.7.2 to modern .NET 6+   
+- Used for migration Windows ClearVPN desktop client from .NET Framework 4.7.2 to modern .NET 6+   
 🔗 [Repository](https://github.com/cuprumator/grpc-single-app-instance-dotnet)
 
----
+### 🔄 AutoAppcast
+**Purpose:** .NET tool for generating Sparkle-compatible appcast feeds for software update delivery  
+**Highlights:**
+- Produces XML appcast files with version info and DSA signatures
+- Used to prepare update metadata for apps that integrate the Sparkle updater
+- Runs as a command-line tool and can be integrated into Windows-based CI/CD pipelines
+- Fully cross-platform thanks to .NET — tested and used on Windows   
+🔗 [Repository](https://github.com/cuprumator/AutoAppcast)
+
 
 ## 💼 Additional Experience
 
@@ -60,7 +68,6 @@ Used for migration Windows ClearVPN desktop client from .NET Framework 4.7.2 to 
 - Built plugins and extension modules for Allplan CAD system
 - Developed a custom CAD data type conversion engine to bridge different architecture tools
 
----
 
 ## 🔧 Skills 
 
@@ -87,7 +94,6 @@ REST, JSON, XML, Windows Filtering Platform (WFP), VPN Protocols (OpenVPN, IKEv2
 - System-level Windows dev: WinAPI, COM, WFP  
 - Performance optimization, security design, diagnostics dashboards
 
----
 
 ## 📫 Let’s connect
 
