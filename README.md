@@ -11,11 +11,14 @@
 **Stack:** C#, .NET 6+, WinUI 3, GRPC, WireGuard, OpenVPN, IKEv2, Hysteria2, sing-box, WFP, WiX, CI/CD (GitHub Actions)  
 **Achievements:**
 - Designed and implemented the complete architecture of the ClearVPN Windows client from scratch
+![ClearVPN UI](./assets/clearvpn-ui-main.gif)
 - Built an intuitive and dynamic WPF UI, later migrated to WinUI 3 with .NET 6+ to modernize the app and align with Microsoft’s roadmap
 - Integrated multiple VPN protocols: OpenVPN 2.5, IKEv2, Hysteria2
 - Implemented core features: split tunneling, killswitch, connection health tracking, auto-mode with smart protocol/server selection
-- Enhanced network filtering using Windows Filtering Platform (WFP) for added security and reliability
+- Enhanced protection for different user scenarios and needs
+![ClearVPN UI](./assets/clearvpn-ui-enhancers.png)
 - Created a real-time dashboard with VPN usage statistics, speed tests, and performance insights
+![ClearVPN UI](./assets/clearvpn-ui-usage.png)
 - Automated the full build-sign-package-release cycle using GitHub Actions and code signing
 - Packaged the app using WiX
 - Helped ClearVPN earn multiple industry awards, including the Red Dot Award and Cybersecurity Excellence Award
