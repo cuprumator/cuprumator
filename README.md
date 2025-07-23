@@ -30,7 +30,7 @@
 - Packaged the app using WiX
 - Helped ClearVPN earn multiple industry awards, including the Red Dot Award and Cybersecurity Excellence Award
 
-🔗 [Download the app](https://clearvpn.com)
+🔗 [clearvpn.com](https://clearvpn.com)
 
 
 ## 📁 Public Repositories Hightligts
