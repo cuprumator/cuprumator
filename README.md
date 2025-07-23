@@ -1,14 +1,14 @@
 # Oleksii Kupriienko
 
 👋 Hi, I'm Oleksii — a C#/.NET developer specializing in Windows desktop applications with over 13 years of experience.  
-🧩 Specialized in building robust Windows desktop apps with modern UI (WinUI/WPF), VPN integration, advanced networking, and secure deployment pipelines.
+🧩 Specialized in building robust Windows desktop apps with modern UI (WinUI/WPF), VPN integration, networking, and secure deployment pipelines.
 
 ---
 
 ## 🎯 ClearVPN for Windows
 
 **Role:** Lead Windows Developer @ MacPaw (2019–2024 full-time, now part-time freelance)  
-**Stack:** C#, .NET 6+, WinUI 3, GRPC, WireGuard, OpenVPN, IKEv2, Hysteria2, sing-box, WFP, WiX, CI/CD (GitHub Actions)
+**Stack:** C#, .NET 6+, WinUI 3, GRPC, WireGuard, OpenVPN, IKEv2, Hysteria2, sing-box, WFP, WiX, CI/CD (GitHub Actions)  
 **Achievements:**
 - Designed and implemented the complete architecture of the ClearVPN Windows client from scratch
 - Built an intuitive and dynamic WPF UI, later migrated to WinUI 3 with .NET 6+ to modernize the app and align with Microsoft’s roadmap
@@ -51,17 +51,29 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🔧 Skills 
 
-**Languages:** C#, C++, XAML, JSON, XML  
-**Frameworks:** .NET 6+, WinUI 3, WPF, MVVM, STL 
-**Tools:** Visual Studio, GitHub Actions, WiX Toolset, CMake, MSTest, GoogleTest, NAnt, Bamboo  
+**Languages:**  
+C#, C++, XAML
+
+**Frameworks:**  
+.NET 6+, .NET Framework 4+, WPF, WinUI, gRPC, STL
+
+**Tools & Technologies:**  
+Visual Studio, VS Code, CMake, Git, WiX Installer, InnoSetup, MSTest, GoogleTest, NAnt, Bamboo CI/CD
+
+**Engineering Principles & Architecture:**  
+MVVM, OOP, SOLID, Refactoring, Dependency Injection, TDD
+
+**Other:**  
+REST, JSON, XML, Windows Filtering Platform (WFP), VPN Protocols (OpenVPN, IKEv2, Hysteria2), CI/CD
+
 **Domains:**  
 - Windows desktop application development  
 - VPN protocols (OpenVPN, WireGuard, IKEv2, Hysteria2), connection management  
 - Interprocess communication (gRPC, CLI args, Windows messages)  
 - Deployment automation, code signing, CI/CD pipelines  
-- System-level Windows dev: WinAPI, COM, WFP, driver signing  
+- System-level Windows dev: WinAPI, COM, WFP  
 - Performance optimization, security design, diagnostics dashboards
 
 ---
