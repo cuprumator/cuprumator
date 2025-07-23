@@ -8,7 +8,7 @@
 ## 🎯 ClearVPN for Windows
 
 **Role:** Lead Windows Developer @ MacPaw (2019–2024 full-time, now part-time freelance)  
-**Stack:** C#, .NET 6+, WinUI 3, GRPC, WireGuard, OpenVPN, IKEv2, Hysteria2, sing-box, WFP, WiX, CI/CD (GitHub Actions), ssl.com code signing  
+**Stack:** C#, .NET 6+, WinUI 3, GRPC, WireGuard, OpenVPN, IKEv2, Hysteria2, sing-box, WFP, WiX, CI/CD (GitHub Actions)
 **Achievements:**
 - Designed and implemented the complete architecture of the ClearVPN Windows client from scratch
 - Built an intuitive and dynamic WPF UI, later migrated to WinUI 3 with .NET 6+ to modernize the app and align with Microsoft’s roadmap
