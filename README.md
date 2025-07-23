@@ -68,7 +68,17 @@
 - Built plugins and extension modules for Allplan CAD system
 - Developed a custom CAD data type conversion engine to bridge different architecture tools
 
+## 🚧 Under Construction
 
+### 🧭 Subscription Calculator (Pet Project, in progress)
+
+A fullstack web app for tracking subscriptions with auto-renewal logic, multi-user support, and mobile-friendly design.
+
+**Tech:** ASP.NET Core Minimal API, Entity Framework, PostgreSQL, TypeScript, React (future), GitHub Actions, Docker  
+**Key features (planned):**
+- Manage subscriptions, costs, reminders
+- Multi-platform UI (Web, iOS/Android later)
+- Real-time validation and budget analytics  
 ## 🔧 Skills 
 
 **Languages:**  
