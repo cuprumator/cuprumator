@@ -35,7 +35,7 @@
 - Designed for apps where WCF or named pipes are deprecated or unsupported
 - Minimal, portable, dependency-free and compatible with .NET 6+ and future versions
 
-Used for migration Windows ClearVPN desktop client from .NET Framework 4.7.2 to modern .NET 6+
+Used for migration Windows ClearVPN desktop client from .NET Framework 4.7.2 to modern .NET 6+   
 🔗 [Repository](https://github.com/cuprumator/grpc-single-app-instance-dotnet)
 
 ---
