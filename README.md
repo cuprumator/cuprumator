@@ -54,7 +54,7 @@
 ## 🛠️ Skills & Technologies
 
 **Languages:** C#, C++, XAML, JSON, XML  
-**Frameworks:** .NET 6+, WinUI 3, WPF, MVVM, STL
+**Frameworks:** .NET 6+, WinUI 3, WPF, MVVM, STL 
 **Tools:** Visual Studio, GitHub Actions, WiX Toolset, CMake, MSTest, GoogleTest, NAnt, Bamboo  
 **Domains:**  
 - Windows desktop application development  
