@@ -13,7 +13,7 @@
 - Designed and implemented the complete architecture of the ClearVPN Windows client from scratch
 
 <p align="center">
-  <img src="./assets/clearvpn-ui-main.png" alt="ClearVPN UI Main" style="max-width: 100%; height: auto;" width="600"/>
+  <img src="./assets/clearvpn-ui-main.gif" alt="ClearVPN UI Main" style="max-width: 100%; height: auto;" width="600"/>
 </p>
 
 - Built an intuitive and dynamic WPF UI, later migrated to WinUI 3 with .NET 6+ to modernize the app and align with Microsoft’s roadmap
